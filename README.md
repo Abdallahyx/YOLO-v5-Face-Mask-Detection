@@ -1,6 +1,6 @@
 # YOLO-v5-Face-Mask-Detection
 
-Trainin YOLOv5 for FaceMask Detection using FaceMask Dataset from Kaggle
+Training YOLOv5 for FaceMask Detection using FaceMask Dataset from Kaggle
 
 link: https://www.kaggle.com/datasets/deepakat002/face-mask-detection-yolov5
 
